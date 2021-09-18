@@ -23,4 +23,5 @@ Feature: Test API feature
     """
     * def userData = call myFun data
     And print 'user----> ', userData
+    And print 'test ---->>> test'
     
